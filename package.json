@@ -1,7 +1,7 @@
 {
   "name": "angel-dash-investing",
   "version": "1.0.0",
-  "description": "Faith-tech angel investor dashboard for pre-seed and seed-stage founders. Filter, score, and export investor targets.",
+  "description": "Faith-tech angel investor dashboard for founders",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,14 +15,6 @@
     "@vitejs/plugin-react": "^4.0.0",
     "vite": "^4.4.0"
   },
-  "keywords": [
-    "angel-investing",
-    "faith-tech",
-    "startup-funding",
-    "investor-dashboard",
-    "christian-startups",
-    "pre-seed",
-    "seed-funding"
-  ],
   "author": "LMW-Labs",
   "license": "MIT"
+}
